@@ -1,0 +1,1 @@
+alert("ce site est destiné uniquement aux personnes qui code");
